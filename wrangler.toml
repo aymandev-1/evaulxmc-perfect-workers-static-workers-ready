@@ -1,4 +1,4 @@
-name = "evaulxmc"
+name = "evaulxmc-perfect-workers-static-workers-ready"
 compatibility_date = "2026-05-31"
 main = "src/worker.js"
 
